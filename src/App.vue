@@ -1,9 +1,14 @@
-<script setup></script>
+<script setup>
+import Demo from './components/Demo.vue';
+
+</script>
 
 <template>
   <div>
-    Starting point
+     App
+     <Demo />
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+</style>
